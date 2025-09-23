@@ -1,0 +1,8 @@
+streamlit
+sklearn 
+pandas
+numpy
+streamlit==1.49.1
+scikit-learn==1.5.1
+pandas==2.3.2
+numpy==2.3.3
