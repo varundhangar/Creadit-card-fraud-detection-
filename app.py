@@ -10,9 +10,9 @@ import joblib
 
 
 st.set_page_config(
-    page_title="Credit Card Fraud Message Detector", layout="centered")
+    page_title=" Fraud Message Detector", layout="centered")
 
-st.title("💳 Credit Card Fraud Message Detector")
+st.title("💳Fraud Message Detector")
 
 df = pd.read_csv("data.csv")
 
